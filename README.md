@@ -2,6 +2,7 @@
 # https://wikimedia-pea.jimdofree.com/
 # https://github.com/869386072406856
 # https://github.com/loeipeo/webnew
+# https://snapcraft.io/store
 ```
 
 faqs.org
