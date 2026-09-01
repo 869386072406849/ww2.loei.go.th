@@ -5,6 +5,14 @@
 # https://github.com/loeipeo/webnew
 # https://snapcraft.io/store
 # https://en.wikipedia.org/wiki/Lalamove
+# https://drive.google.com/file/d/1qRTZmrOL8X5p_G_KoPW6GhFGYsjKqAC1/view?usp=drivesdk
+# https://drive.google.com/file/d/1FI7yMEbimLC0GVq6r8byWNFzWxv_QniW/view?usp=drivesdk
+# https://drive.google.com/file/d/1wqgMrLvIJhkzJQsYJO4YnbZzCau6Lu-g/view?usp=drivesdk
+# https://drive.google.com/file/d/1bS0u7wjqrp1nslPmUf99cPaYbOMVaMRK/view?usp=drivesdk
+# https://drive.google.com/file/d/13MG3oCl99Xingk2eFe7WZOnLLYqnO-pH/view?usp=drivesdk
+# https://drive.google.com/file/d/1zu3rJ3Cp1QPm_kSouOTW45mGd4vUUN_m/view?usp=drivesdk
+# https://drive.google.com/file/d/1qssaq3bUQa-yistdW-4im4O4G37yq1C9/view?usp=drivesdk
+
 ```
 git branch -m main 45.60.34.44
 git fetch origin
