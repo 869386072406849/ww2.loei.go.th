@@ -5,6 +5,11 @@
 # https://snapcraft.io/store
 # https://en.wikipedia.org/wiki/Lalamove
 ```
+git branch -m main 45.60.34.44
+git fetch origin
+git branch -u origin/45.60.34.44 45.60.34.44
+git remote set-head origin -a
+
 DNS leak test is an important tool for anyone concerned about online privacy and security. When using a VPN service to conceal your internet activities, it's crucial to ensure that your DNS requests are also protected. A DNS leak can expose those requests, revealing the websites you visit to your ISP or any eavesdropper monitoring your connection. Conducting a DNS leaked zone test is a straightforward process. By running a DNS leak test, you can verify that your online activities are not being exposed through DNS queries.
 IP
 223.24.205.215
