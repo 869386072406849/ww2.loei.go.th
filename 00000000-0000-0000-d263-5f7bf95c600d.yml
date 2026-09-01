@@ -1,0 +1,17 @@
+{
+    "LogEntries": [
+        {
+            "HomeObjectId": "00000000-0000-0000-d263-5f7bf95c600d",
+            "UserId": "Z2SGYl_YYYSbI94jlxQKxKawg2E13KTApwtMFvGOLtw",
+            "TenantId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+            "Puid": "0003BFFEB7E61543",
+            "LogContextId": "77760358-f599-4c61-a273-8596ef1d76b3",
+            "ArmDataBoundary": "ROW",
+            "EntraDataBoundary": "None",
+            "DataBoundary": "ROW",
+            "DataBoundaryContext": "ARM",
+            "BootType": "First",
+            "TestTraffic": "False"
+        }
+    ]
+}
