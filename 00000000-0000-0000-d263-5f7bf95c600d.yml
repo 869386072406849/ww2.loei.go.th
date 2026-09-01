@@ -9,7 +9,7 @@
             "ArmDataBoundary": "อุปกรณ์การไฟฟ้าส่วนภูมิภาคทุกสาขาเลย",
             "EntraDataBoundary": "ข้อมูลทุกประเภทของการไฟฟ้าแต่ละสาขาในจังหวัดเลย",
             "DataBoundary": "ROW",
-            "DataBoundaryContext": "ARM",
+            "DataBoundaryContext": "https://en.wikipedia.org/wiki/Context-based_access_control",
             "BootType": "First",
             "TestTraffic": "False"
         }
