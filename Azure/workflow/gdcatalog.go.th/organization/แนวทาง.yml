@@ -1,0 +1,123 @@
+# Schnellstart für GitHub Actions
+
+Probieren Sie in wenigen Minuten die Kernfunktionen von GitHub Actions aus.
+
+## Einführung
+
+GitHub Actions ist eine Plattform für Continuous Integration und Continuous Delivery (CI/CD), mit der du deine Build-, Test- und Bereitstellungspipeline automatisieren kannst. Sie können Workflows erstellen, die Tests ausführen, wenn Sie eine Änderung an Ihr Repository übertragen oder zusammengeführte Pullanforderungen für die Produktion bereitstellen.
+
+In diesem Schnellstarthandbuch erfahren Sie, wie Sie die Benutzeroberfläche GitHub verwenden, um einen Workflow hinzuzufügen, der einige der wesentlichen Features veranschaulicht GitHub Actions.
+
+Für die ersten Schritte mit vorkonfigurierten Workflows durchsuchen Sie die Liste der Vorlagen im Repository der [Aktions-/Starter-Workflows](https://github.com/actions/starter-workflows). Weitere Informationen finden Sie unter [Verwenden von Workflowvorlagen](/de/actions/how-tos/write-workflows/use-workflow-templates).
+
+Eine Übersicht über GitHub Actions Workflows finden Sie unter [Workflows](/de/actions/concepts/workflows-and-actions/workflows). Wenn Sie mehr über die verschiedenen Komponenten erfahren möchten, aus denen GitHub Actions besteht, siehe [Grundlegendes zu GitHub Actions](/de/actions/get-started/understand-github-actions).
+
+## Verwenden von Workflowvorlagen
+
+GitHub bietet vordefinierte Workflowvorlagen, die du unverändert übernehmen oder anpassen kannst, um einen eigenen Workflow zu erstellen. GitHub analysiert den Code und zeigt Workflowvorlagen an, die für dein Repository nützlich sein könnten. Wenn Dein Repository beispielsweise Node.js-Code enthält, werden Vorschläge für Node.js-Projekte angezeigt.
+
+Diese Workflowvorlagen ermöglichen einen schnellen Einstieg und bieten verschiedene Konfigurationen, wie z. B.:
+
+* CI: [Workflows für Continuous Integration](https://github.com/actions/starter-workflows/tree/main/ci)
+* Bereitstellungen: [Bereitstellungsworkflows](https://github.com/actions/starter-workflows/tree/main/deployments)
+* Automatisierung: [Workflows zur Automatisierung](https://github.com/actions/starter-workflows/tree/main/automation)
+* Codeüberprüfung: [Workflows zur Codeüberprüfung](https://github.com/actions/starter-workflows/tree/main/code-scanning)
+* Seiten: [Seitenworkflows](https://github.com/actions/starter-workflows/tree/main/pages)
+
+Sie können diese Workflows als Ausgangspunkt nutzen, um eigene benutzerdefinierte Workflows zu erstellen, oder sie unverändert übernehmen. Die vollständige Liste der Workflowvorlagen können Sie im Repository der [Aktions-/Starter-Workflows](https://github.com/actions/starter-workflows) durchsuchen.
+
+## Voraussetzungen
+
+In diesem Leitfaden wird davon ausgegangen, dass:
+
+* Sie haben mindestens ein Grundwissen über die Verwendung GitHub. Andernfalls finden Sie es hilfreich, einige der Artikel in der Dokumentation für Repositorys und Pull Requests zuerst zu lesen. Beispiele findest du unter [Schnellstart für Repositorys](/de/repositories/creating-and-managing-repositories/quickstart-for-repositories), [Branches](/de/pull-requests/reference/branches) und [Pull-Anfragen](/de/pull-requests/reference/pull-requests).
+* Sie haben ein Repository, in GitHub dem Sie Dateien hinzufügen können.
+* Sie haben Zugriff auf GitHub Actions.
+
+  > \[!NOTE] Wenn die **<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-play" aria-label="play" role="img"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg> Registerkarte "Aktionen** " nicht unter dem Namen Ihres Repositorys GitHubangezeigt wird, liegt dies möglicherweise daran, dass Aktionen für das Repository deaktiviert sind. Weitere Informationen finden Sie unter [Einstellung der GitHub Actions für ein Repository verwalten](/de/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository).
+
+## Erstellen deines ersten Workflows
+
+1. Erstellen Sie in Ihrem Repository auf GitHub im Verzeichnis `.github/workflows` eine Workflowdatei mit dem Namen `github-actions-demo.yml`. Gehen Sie hierzu folgendermaßen vor:
+   * Wenn das Verzeichnis bereits vorhanden ist, navigieren Sie zu diesem `.github/workflows` Verzeichnis GitHub, klicken Sie auf **"Datei hinzufügen**", und klicken Sie dann auf " **Neue Datei erstellen**", und nennen Sie die Datei `github-actions-demo.yml`.
+
+   * Wenn Ihr Repository nicht über ein `.github/workflows` Verzeichnis verfügt, wechseln Sie zur Hauptseite des Repositorys, GitHubklicken Sie auf **"Datei hinzufügen**", klicken Sie dann auf " **Neue Datei erstellen**", und nennen Sie die Datei `.github/workflows/github-actions-demo.yml`. Dadurch werden die Verzeichnisse `.github` und `workflows` und die Datei `github-actions-demo.yml` in einem einzigen Schritt erstellt.
+   > \[!NOTE]
+   > Damit GitHub alle GitHub Actions-Workflows in Ihrem Repository erkennen kann, müssen Sie die Workflow-Dateien in einem Verzeichnis mit dem Namen `.github/workflows` speichern.
+   >
+   > Sie können der Workflow-Datei einen beliebigen Namen geben, aber Sie müssen als Suffix `.yml` oder `.yaml` verwenden. YAML ist eine Markupsprache, die häufig für Konfigurationsdateien verwendet wird.
+
+2. Kopiere die folgenden YAML-Inhalte in die Datei `github-actions-demo.yml`:
+
+   ```yaml copy
+   name: GitHub Actions Demo
+   run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+   on: [push]
+   jobs:
+     Explore-GitHub-Actions:
+       runs-on: ubuntu-latest
+       steps:
+         - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+         - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+         - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+         - name: Check out repository code
+           uses: actions/checkout@v6
+         - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+         - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+         - name: List files in the repository
+           run: |
+             ls ${{ github.workspace }}
+         - run: echo "🍏 This job's status is ${{ job.status }}."
+   ```
+
+   In dieser Phase müssen Sie die Details dieses Workflows nicht verstehen. Jetzt können Sie den Inhalt einfach kopieren und in die Datei einfügen. Nach Abschluss dieses Schnellstarthandbuchs können Sie in [Workflows](/de/actions/concepts/workflows-and-actions/workflows) mehr über die Syntax von Workflowdateien erfahren, und eine Erläuterung des GitHub Actions Kontexts, wie `${{ github.actor }}` und `${{ github.event_name }}`, finden Sie in [Kontextreferenz](/de/actions/reference/workflows-and-actions/contexts).
+
+3. Klicke auf **Änderungen übernehmen**.
+
+4. Wählen Sie im Dialog "Änderungen vorschlagen" entweder die Option, in die standardmäßige Verzweigung zu übertragen oder die Option, eine neue Verzweigung zu erstellen und eine Pull-Anfrage zu starten. Klicken Sie dann auf **Änderungen übernehmen** oder **Änderungen vorschlagen**.
+
+   ![Screenshot des Dialogfelds „Änderungen vorschlagen“, in dem die erwähnten Bereiche mit einer orangefarbenen Kontur hervorgehoben sind.](/assets/images/help/repository/actions-quickstart-commit-new-file.png)
+
+Durch das Festschreiben der Workflowdatei in einen Branch in deinem Repository wird das `push`-Ereignis ausgelöst, und dein Workflow wird ausgeführt.
+
+Wenn Sie sich entschieden haben, einen Pull Request zu starten, können Sie den Pull Request fortsetzen und erstellen. Es ist jedoch für die Zwecke dieser Schnellstartanleitung nicht erforderlich, da der Commit noch an einer Verzweigung vorgenommen wurde und den neuen Workflow auslöst.
+
+## Anzeigen der Workflowergebnisse
+
+1. Navigieren Sie auf GitHub zur Hauptseite des Repositorys.
+
+2. Klicke unter dem Repositorynamen auf **<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-play" aria-label="play" role="img"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg> Actions**.
+
+   ![Screenshot: Registerkarten für das Repository „github/docs“. Die Registerkarte „Aktionen“ ist mit einem orangefarbenen Rahmen hervorgehoben.](/assets/images/help/repository/actions-tab-global-nav-update.png)
+
+3. Klicken Sie in der linken Randleiste auf den Workflow, den Sie anzeigen möchten, in diesem Beispiel "GitHub Actions Demo".
+
+   ![Screenshot: Seite „Actions“. Der Name des Beispielworkflows "GitHub Actions Demo" wird durch eine dunkel orangefarbene Kontur hervorgehoben.](/assets/images/help/repository/actions-quickstart-workflow-sidebar.png)
+
+4. Klicken Sie in der Liste der Workflowausführungen auf den Namen der anzuzeigenden Ausführung, in diesem Beispiel "BENUTZERNAME testet GitHub Actions".
+
+5. Klicken Sie auf der linken Randleiste der Workflowausführungsseite unter **Jobs** auf den Auftrag **Explore-GitHub-Actions**.
+
+   ![Screenshot der Seite „Workflow-Durchlauf“. In der linken Seitenleiste wird der Job "Explore-GitHub-Actions" mit einer dunklen orangefarbenen Kontur hervorgehoben.](/assets/images/help/repository/actions-quickstart-job.png)
+
+6. Das Protokoll zeigt, wie die einzelnen Schritte ausgeführt wurden. Erweitere einen beliebigen Schritt, um die zugehörigen Details anzuzeigen.
+
+   ![Screenshot: Vom Workflow ausgeführte Schritte](/assets/images/help/repository/actions-quickstart-logs.png)
+
+   Beispielsweise wird die Liste der Dateien in deinem Repository angezeigt:
+
+   ![Erweiterter Screenshot des Schritts „Dateien im Repository auflisten“ zur Anzeige der Protokollausgabe. Die Ausgabe für den Schritt ist mit einer orangenen Gliederung hervorgehoben.](/assets/images/help/repository/actions-quickstart-log-detail.png)
+
+Der soeben hinzugefügte Beispiel-Workflow wird jedes Mal ausgelöst, wenn Code in den Branch übertragen wird, und zeigt Ihnen, wie GitHub Actions mit den Inhalten Ihres Repositorys arbeiten kann. Ein ausführliches Tutorial findest du unter [Grundlegendes zu GitHub Actions](/de/actions/get-started/understand-github-actions).
+
+## Nächste Schritte
+
+GitHub Actions kann Ihnen dabei helfen, nahezu jeden Aspekt Ihrer Anwendungsentwicklungsprozesse zu automatisieren. Willst du loslegen? Hier sind einige hilfreiche Ressourcen zum Ausführen der nächsten Schritte mit GitHub Actions:
+
+* Informationen zum Erstellen eines GitHub Actions Workflows finden Sie unter [Verwenden von Workflowvorlagen](/de/actions/how-tos/write-workflows/use-workflow-templates).
+* Informationen zu CI-Workflows (Continuous Integration) sind unter [Deinen Code bauen und testen](/de/actions/tutorials/build-and-test-code) zu finden.
+* Informationen zum Erstellen und Veröffentlichen von Paketen findest du unter [Pakete veröffentlichen](/de/actions/tutorials/publish-packages).
+* Informationen zum Bereitstellen von Projekten findest du unter [Bereitstellen auf Drittanbieterplattformen](/de/actions/how-tos/deploy/deploy-to-third-party-platforms).
+* Informationen zur Automatisierung von Aufgaben und Prozessen auf GitHub finden Sie unter [Verwalten deiner Arbeit mit GitHub Actions](/de/actions/tutorials/manage-your-work).
+* Beispiele, die komplexere Funktionen von GitHub Actions veranschaulichen, finden Sie unter [Auswählen, was in dem Workflow passiert](/de/actions/how-tos/write-workflows/choose-what-workflows-do). In diesen detaillierten Beispielen wird erläutert, wie Sie Ihren Code auf einem Läufer testen, auf die GitHub CLI zugreifen und erweiterte Features wie Parallelitäts- und Testmatrizen verwenden.
+* Um Ihre Fähigkeiten bei der Automatisierung von Workflows zu zertifizieren und die Entwicklung mit GitHub Actions zu beschleunigen, erwerben Sie ein GitHub Actions-Zertifikat mit GitHub Certifications. Weitere Informationen finden Sie unter [Informationen zu GitHub Certifications](/de/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications).
