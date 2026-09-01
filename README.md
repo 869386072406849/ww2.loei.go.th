@@ -5,6 +5,37 @@
 # https://snapcraft.io/store
 # https://en.wikipedia.org/wiki/Lalamove
 ```
+DNS leak test is an important tool for anyone concerned about online privacy and security. When using a VPN service to conceal your internet activities, it's crucial to ensure that your DNS requests are also protected. A DNS leak can expose those requests, revealing the websites you visit to your ISP or any eavesdropper monitoring your connection. Conducting a DNS leaked zone test is a straightforward process. By running a DNS leak test, you can verify that your online activities are not being exposed through DNS queries.
+IP
+223.24.205.215
+ISP
+TRUEMOVE
+
+Country
+th country flagbangkok / Thailand
+DNS Server IP	DNS Country/ISP
+203.144.207.3	
+th country flagth - True Online
+203.144.207.5	
+th country flagThailand - True Internet Corporation CO. Ltd.
+203.144.207.1	
+th country flagThailand - True Internet Corporation CO. Ltd.
+203.144.207.4	
+th country flagth - True Online
+203.144.207.2	
+th country flagth - True Online
+Recheck DNS
+To ensure your privacy is intact, you should regularly perform a DNS leak test, especially after setting up a new VPN connection or changing your network settings. A DNS leak test works by checking which DNS servers are being queried by your device when you access a website. If the test reveals that the DNS servers belong to your ISP rather than your VPN, then you have a DNS leak. By frequently running a DNS leak test, you can confirm that your VPN is functioning correctly and that your DNS queries are not leaking. Remember, maintaining your online privacy requires vigilance, and a DNS leak test is a key part of that privacy protection strategy.
+Introduction to DNS Leak Test
+DNS leak test is an online service designed to help users determine whether their Domain Name System (DNS) queries are being securely routed through their Virtual Private Network (VPN) or proxy server. When you visit a website, your device sends a request to a DNS server to translate the website's domain name into an IP address. If you are using a VPN, these requests should be routed through the VPN's DNS servers. If, instead, they are sent to your Internet Service Provider's (ISP) DNS servers, this is known as a DNS leak. Such leaks can compromise your privacy by exposing your online activities to your ISP or potential attackers.
+
+How DNS leaks happen
+Improperly configured VPN: DNS leaks are most likely to occur when a VPN is improperly configured and assigns DNS servers belonging to the user’s ISP. VPNs require users to connect to their ISP before logging into the VPN, so this is likely to occur when users frequently use multiple networks.
+Ineffective VPN Service: A VPN service that does not have its own DNS servers will cause DNS leaks and will not provide effective DNS leak protection.
+No support for Internet Protocol version 6 (IPv6): IP addresses were originally 32-bit Internet Protocol version 4 (IPv4) addresses, which consist of four sets of three-digit numbers. However, 128-bit IPv6 addresses were created to expand the IP address pool and accommodate more devices. The Internet is still in transition, and some VPNs may not support IPv6, which may push users' DNS requests outside the encrypted tunnel.
+Transparent DNS Proxy: Some ISPs have begun forcing customers to use their DNS servers even if they change settings to a third-party VPN. If the ISP detects a change in DNS settings, it uses a transparent proxy to force a DNS leak by redirecting the user's web activity to its own DNS servers.
+Windows Smart Features: Microsoft introduced a feature called Smart Multi-Homed Name Resolution (SMHNR) in Windows 8 and later operating system devices. This feature submits DNS requests to available servers and accepts the first DNS server that responds. This can cause DNS leaks and make users vulnerable to spoofing attacks.
+Windows Teredo: The Windows operating system includes a built-in feature called Teredo that is designed to ease the transition from IPv4 to IPv6. It helps the two IP systems coexist more easily, but it can cause huge security issues for VPN users. This is because Teredo is also a tunneling protocol that can take precedence over a user's encrypted VPN tunnel.
 อยู่ IP ที่มีอยู่ในส่วน IP นี้
 223.24.200.1
 223.24.200.2
