@@ -1,0 +1,240 @@
+{{คําอธิบายสั้น|มาตรฐานสากลสําหรับรหัสสามตัวอักษรที่ระบุภาษา}}
+{{ใช้ dmy dates|date=October 2024}}
+'''ISO 639-3:2007''', ''''รหัสสําหรับการแสดงชื่อของภาษา&nbsp;– ส่วนที่ 3: รหัส Alpha-3 สําหรับการครอบคลุมภาษาอย่างครอบคลุม'''' เป็นมาตรฐานสากล สําหรับ [[รหัสภาษา]] ในซีรีส์ [[ISO 639]] กําหนดรหัสสามตัวอักษรเพื่อระบุภาษา มาตรฐานนี้เผยแพร่โดย [[องค์การระหว่างประเทศเพื่อการมาตรฐาน]] (ISO) เมื่อวันที่ 1 กุมภาพันธ์ พ.ศ.2550 <ref name="สถานะ ISO">{{Cite web |title=ISO 639-3:ประกาศเพิกถอนปี 2550 |url=https://www.iso.org/standard/39534.html |publisher=International Organisation for Standardization |date=1 กุมภาพันธ์ 2550 |access-date=6 มิถุนายน 2568 |archive-url=https://web.archive.org/web/20240606000000/https://www.iso.org/standard/39534.html |archive-date=6 มิถุนายน 2567 |url-status=live}}</อ้างอิง>
+
+ในปี 2023 มาตรฐานฉบับนี้ได้ถูกเพิกถอนอย่างเป็นทางการและแทนที่ด้วย ISO 639:2023<ref name="สถานะ ISO" />
+
+ISO 639-3 ขยายรหัส [[ISO 639-2]] alpha-3 โดยมีเป้าหมายเพื่อให้ครอบคลุม [[ภาษาธรรมชาติ]] ที่รู้จักทั้งหมด ความครอบคลุมของภาษาที่ขยายออกไปนั้นขึ้นอยู่กับรหัสภาษาที่ใช้ใน ''[[Ethnologue]]'' (เล่ม 10–14) ที่เผยแพร่โดย [[SIL International]] ซึ่งปัจจุบันเป็น [[หน่วยงานจดทะเบียน]] สําหรับ ISO 639- 3<ref>{{Cite web |title=Maintenance agency and register Authorities |url=http://www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/maintenance_agencies.htm |publisher=ISO |access-date=12 มกราคม 2014 |archive-date=8 ตุลาคม 2012 |archive-url=https://web.archive.org/web/20121008180204/http://www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/maintenance_agencies.htm |url-status=live }}</ref> ให้การแจงนับภาษาให้ครบถ้วนที่สุด รวมถึงสิ่งมีชีวิตและสูญพันธุ์ โบราณและก่อสร้าง ใหญ่และรอง เขียนและไม่ได้เขียน <ref name="สถานะ ISO" /> อย่างไรก็ตาม ไม่รวมถึง [[ภาษาที่สร้างขึ้นใหม่]] เช่น [[ภาษาโปรโต-อินโด-ยูโรเปียน|โปรโต-อินโด-ยูโรเปียน]]<ref>{{Cite web |title=Types of dividual languages – Ancient languages |url=https://iso639-3.sil.org/about/types#Ancient |access-date=2018-06-11 |website=SIL International |archive-date=12 มิถุนายน 2018 |archive-url=https://web.archive.org/web/20180612140613/https://iso639-3.sil.org/about/types#Ancient |url-สถานะ=สด }}</อ้างอิง>
+
+ISO 639-3 มีไว้สําหรับใช้เป็นรหัส [[ข้อมูลเมตา]] ในการใช้งานที่หลากหลาย มีการใช้กันอย่างแพร่หลายในระบบคอมพิวเตอร์และข้อมูล เช่น อินเทอร์เน็ต ซึ่งจําเป็นต้องรองรับหลายภาษา ในเอกสารสําคัญและการจัดเก็บข้อมูลอื่นๆ จะใช้ในระบบแค็ตตาล็อก โดยระบุว่าทรัพยากรอยู่ในหรือเกี่ยวกับภาษาใด รหัสนี้ยังใช้บ่อยในวรรณกรรมทางภาษาศาสตร์และที่อื่นๆ เพื่อชดเชยความจริงที่ว่าชื่อภาษาอาจไม่ชัดเจนหรือคลุมเครือ
+
+{| class="wikitable" width="25%" align="right"
+! ค้นหาภาษา
+|-
+| style="text-align:center" | ป้อนรหัส ISO 639-3 เพื่อค้นหาบทความภาษาที่เกี่ยวข้อง
+|-
+|<กล่องขาเข้า>
+ประเภท=ค้นหา
+ความกว้าง=10
+ค่าเริ่มต้น=ISO 639:
+ป้ายปุ่ม=ไป
+searchbuttonlabel=ค้นหา
+แตก=ไม่
+</กล่องขาเข้า>
+|}
+
+== รหัสภาษา ==
+{{บทความหลัก|รายการรหัส ISO 639-3}}
+ISO 639-3 รวมทุกภาษาใน [[ISO 639-1]] และแต่ละภาษาทั้งหมดใน [[ISO 639-2]] ISO 639-1 และ ISO 639-2 มุ่งเน้นไปที่ภาษาหลักๆ ซึ่งมักนําเสนอในวรรณกรรมทั้งหมดของโลก เนื่องจาก ISO 639-2 มีคอลเลกชันภาษาด้วย และส่วนที่ 3 ไม่มี ISO 639-3 จึงไม่ใช่ชุดพิเศษของ ISO 639-2 ในกรณีที่ [[รหัส ISO 639-2#B และ T|รหัส B และ T]] มีอยู่ใน ISO 639-2 ISO 639-3 จะใช้รหัส T
+
+{| คลาส=วิกิเทเบิล
+|+ตัวอย่างรหัสภาษา ISO
+|-
+!ขอบเขต="col"|ภาษา
+!ขอบเขต="col"|639-1
+!ขอบเขต="col"|639-2 (B/T)
+!ขอบเขต="col"|639-3 ประเภท
+!ขอบเขต="col"|639-3 รหัส
+|-
+!ขอบเขต="แถว"|[[ภาษาอังกฤษ|ภาษาอังกฤษ]]]
+|<code>en</code>||<code>eng</code>||individual ||<code>eng</code>
+|-
+![[ภาษาฝรั่งเศส|ภาษาฝรั่งเศส]]
+|<รหัส>fr</รหัส>
+|<code>fre</code>/<code>fra</code>
+|รายบุคคล
+|<รหัส>fra</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาเยอรมัน|เยอรมัน]]
+|<code>de</code>||<code>ger</code>/<code>deu</code>||individual||<code>deu</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาอาหรับ]]
+|rowspan=5|<code>ar</code>||rowspan=5|<code>ara</code>||macro||<code>ara</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาอาหรับมาตรฐานสมัยใหม่|ภาษาอาหรับมาตรฐาน]]
+|รายบุคคล||<code>arb</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาอาหรับอียิปต์|มาศรี]]
+|รายบุคคล||<รหัส>arz</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาอาหรับลิแวนไทน์|ชามิ]]
+|รายบุคคล||<code>apc</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาอาหรับกิลิตเมโสโปเตเมีย|ภาษาอาหรับกิลิต]]
+|รายบุคคล||<code>acm</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาจีน|จีน]]
+|rowspan=4|<code>zh</code>||rowspan=4|<code>chi</code>/<code>zho</code><ref name="ethnologue">{{Cite web |title=Ethnologue รายงานสําหรับรหัส ISO 639: zho |url=http://archive.ethnologue.com/14/show_iso639.asp?code=zho |archive-url=https://web.archive.org/web/20140912140028/http://archive.ethnologue.com/14/show_iso639 asp?code=zho |archive-date=2014-09-12 |เว็บไซต์=ชาติพันธุ์วิทยา}}</ref><ref>{{Cite web |title=ISO 639-3 |url=http://www-01.sil.org/iso639-3/macrolanguages.asp |website=SIL International |access-date=12 กันยายน 2014 |archive-date=24 กุมภาพันธ์ 2013 |archive-url=https://web.archive.org/web/20130224033912/http://www-01.sil.org/iso639-3/macrolanguages.asp |url-status=live }}</ref>|มาโคร|<code>zho</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาจีนกลาง|ภาษาจีนกลาง]]]
+|รายบุคคล||<code>cmn</code>
+|-
+!ขอบเขต="แถว"|[[กวางตุ้ง]]
+|รายบุคคล||<code>yue</code>
+|-
+!ขอบเขต="แถว"|[[นาทีใต้]]
+|รายบุคคล||<รหัส>แนน</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาไทย|ภาษาไทยกลาง]]]
+|rowspan=4|<code>th</code>||rowspan=4|<code>tha</code>||individual||<code>tha</code>
+|-
+!ขอบเขต="แถว"|[[ภาษาไทยภาคใต้|ภาษาไทยภาคใต้]]
+|รายบุคคล||<รหัส>sou</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาไทยภาคเหนือ|ภาษาไทยภาคเหนือ]]]
+|รายบุคคล||<รหัส>nod</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาไทลื้อ|ลื้อ]]
+|รายบุคคล||<รหัส>khb</รหัส>
+|-
+!ขอบเขต="แถว"|[[ภาษาลาว|ลาว]]/[[ภาษาอีสาน|อีสาน]]
+|rowspan=2|<code>lo</code>||rowspan=2|<code>lao</code>||individual||<code>lao</code>/<code>tts</code>
+|-
+!ขอบเขต="แถว"|[[ภูภาษาไทย|ภูไท]]
+|รายบุคคล||<รหัส>pht</รหัส>
+|-
+|}
+
+{{ณ วันที่|2023|01|23}} มาตรฐานประกอบด้วย 7,916 รายการ<!-- รหัสที่ใช้งานอยู่ในข้อมูล 2023-01-23 รวมถึงรหัสพิเศษ 4 รหัส: mis, mul, und, zxx --><ref name="Data-Files">{{อ้างอิงเว็บ |date=2021-02-18 |title=ISO 639-3 Code Set |url=http://www-01.sil.org/iso639-3/download.asp |access-date=2021-04-07 |website=SIL International |archive-date=1 เมษายน 2018 |archive-url=https://web.archive.org/web/20180401160709/http://www-01.sil.org/iso639-3/download.asp |url-status=live }}</ref> รายการภาษาขึ้นอยู่กับแหล่งที่มาหลายแห่ง ได้แก่: แต่ละภาษาที่มีอยู่ใน 639-2, ภาษาสมัยใหม่จาก [[Ethnologue]], ความหลากหลายทางประวัติศาสตร์, ภาษาโบราณและ [[ภาษาที่สร้างขึ้น|ภาษาประดิษฐ์]] จาก [[รายชื่อนักภาษาศาสตร์]]<ref>{{Cite web |title=ISO 639-3 |url=http://www-01.sil.org/iso639-3/default.asp |website=SIL International |access-date=18 พฤษภาคม 2014 |archive-date=15 พฤษภาคม 2014 |archive-url=https://web.archive.org/web/20140515104958/http://www-01.sil.org/iso639-3/default.asp |url-status=live }}</ref> รวมถึงภาษาที่แนะนําภายในระยะเวลาแสดงความคิดเห็นสาธารณะประจําปี
+
+[[ข้อมูลที่เครื่องอ่านได้]] ไฟล์จัดทําโดยหน่วยงานลงทะเบียน <ref name="Data-Files" /> การแมปจาก ISO 639-1 หรือ ISO 639-2 ถึง ISO 639-3 สามารถทําได้โดยใช้ไฟล์ข้อมูลเหล่านี้
+
+ISO 639-3 มีวัตถุประสงค์เพื่อถือว่าความแตกต่างขึ้นอยู่กับเกณฑ์ที่ไม่ได้มีวัตถุประสงค์ทั้งหมด<ref>{{อ้างอิงเว็บ |title=Scope of Denotation: แต่ละภาษา |url=http://www-01.sil.org/iso639-3/scope.asp#I |เว็บไซต์=SIL International |access-date=18 พฤษภาคม 2014 |archive-date=20 ตุลาคม 2014 |archive-url=https://web.archive.org/web/20141020022923/http://www-01.sil.org/iso639-3/scope.asp#I |url-status=live }}</ref> ไม่ได้มีวัตถุประสงค์เพื่อจัดทําเอกสารหรือจัดเตรียมตัวระบุสําหรับภาษาถิ่นหรือรูปแบบภาษาย่อยอื่น ๆ<ref>{{อ้างอิงเว็บ |title=Scope of Denotation: ภาษาถิ่น |url=http://www-01.sil.org/iso639-3/scope.asp#Dialects |website=SIL International |access-date=18 พฤษภาคม 2014 |archive-date=20 ตุลาคม 2014 |archive-url=https://web.archive.org/web/20141020022923/http://www-01.sil.org/iso639-3/scope.asp#Dialects |url-status=live }}</ref> อย่างไรก็ตาม การตัดสินเกี่ยวกับความแตกต่างระหว่างภาษาต่างๆ อาจเป็นเรื่องส่วนตัว โดยเฉพาะอย่างยิ่งในกรณีของภาษาที่หลากหลายโดยไม่มีประเพณีวรรณกรรมที่เป็นที่ยอมรับ การใช้ในการศึกษาหรือสื่อ หรือปัจจัยอื่น ๆ ที่มีส่วนทําให้ภาษาเป็นแบบแผน ดังนั้น มาตรฐานจึงไม่ควรถือเป็นข้อความที่เชื่อถือได้เกี่ยวกับภาษาที่แตกต่างกันที่มีอยู่ในโลก (ซึ่งอาจมีความขัดแย้งอย่างมากในบางกรณี) แต่เป็นเพียงวิธีที่มีประโยชน์วิธีหนึ่งในการระบุภาษาที่แตกต่างกันอย่างแม่นยํา
+
+== พื้นที่รหัส ==
+เนื่องจากรหัสเป็นตัวอักษรสามตัว ขอบเขตบนหนึ่งขอบเขตของจํานวนภาษาที่สามารถแสดงได้คือ 26 × 26 × 26 = 17,576 เนื่องจาก ISO 639-2 กําหนดรหัสพิเศษ (4) ช่วงที่สงวนไว้ (520) และ [[ISO 639-2#B_and_T_codes|รหัส B เท่านั้น]] (22),<!-- 20 บวกกับรหัส B ที่เลิกใช้แล้ว scc และ scr --> รหัส 546 ไม่สามารถใช้ในส่วนที่ 3 ได้ ดังนั้นขอบเขตบนที่เข้มงวดกว่าคือ 17,576 − 546 = 17,030
+
+ขอบเขตบนจะเข้มงวดยิ่งขึ้นหากลบคอลเลกชันภาษาที่กําหนดไว้ใน 639-2 และคอลเลกชันที่ยังไม่ได้กําหนดไว้ใน [[ISO 639-5]]
+
+== ชื่ออ้างอิง ==
+
+ชื่ออ้างอิงอาจใช้ชุดย่อยของอักขระ ASCII เท่านั้น ตามส่วนที่ 6.4.1 ของมาตรฐาน พวกเขาอาจมีเพียง 26 ตัวอักษรของ [[ISO อักษรละตินพื้นฐาน]] และตัวกํากับเสียงจากชุดต่อไปนี้:
+{{พีบีแอล|
+อา เอ โอ อู 
+â ê î ô û
+à è ì ò ú
+ä ë ï ö ü
+ครับ
+เอ
+ช
+}}
+ชื่ออ้างอิงอาจรวมถึงเครื่องหมายวรรคตอน ASCII ห้าเครื่องหมาย (ช่องว่าง ยัติภังค์ลบ เครื่องหมายอะพอสทรอฟี และวงเล็บ) และภายในวงเล็บจะมีจุดเต็มและตัวเลขสิบหลัก
+
+ชื่ออื่นอาจใช้การสะกดการันต์ภาษาที่เหมาะสม หากเป็นภาษาละติน หรือการทับศัพท์เป็นอักษรละตินที่มีอักขระเพิ่มเติม
+
+== ภาษามาโคร ==
+{{บทความหลัก|ISO 639 macrolanguage}}
+
+มี 58 ภาษาใน ISO 639-2 ซึ่งตามวัตถุประสงค์ของมาตรฐานถือว่าเป็น "ภาษามาโคร" ใน ISO 639-3 <ref>{{อ้างอิงเว็บ |title=Scope of denotation: Macrolanguages |url=http://www.sil.org/iso639-3/scope.asp#M |access-date=2012-06-14 |เว็บไซต์=SIL International |archive-date=8 กุมภาพันธ์ 2013 |archive-url=https://web.archive.org/web/20130208184504/http://www.sil.org/iso639-3/scope.asp#M |url-status=live }}</ref>
+
+[[macrolanguage]] เหล่านี้บางส่วนไม่มีภาษาใดภาษาหนึ่งตามที่กําหนดโดย ISO 639-3 ในชุดรหัสของ ISO 639-2 เช่น <code>ara</code> (ภาษาอาหรับทั่วไป) อื่นๆ เช่น <code>nor</code> (นอร์เวย์) มีสองส่วนแยกกัน (<code>nno</code> ([[Nynorsk]]), <code>nob</code> ([[Bokmål]])) อยู่ใน ISO 639-2 แล้ว
+
+นั่นหมายความว่าภาษาบางภาษา (เช่น <code>arb</code>, Standard Arabic) ที่ ISO 639-2 พิจารณาให้เป็นภาษาถิ่นของภาษาเดียว (<code>ara</code>) ปัจจุบันอยู่ใน ISO 639-3 ในบางบริบทที่ถือว่าเป็นแต่ละภาษาเอง
+
+นี่เป็นความพยายามที่จะจัดการกับพันธุ์ที่อาจมีความแตกต่างทางภาษาจากกัน แต่ผู้พูดของพวกเขาได้รับการปฏิบัติเหมือนเป็นภาษาเดียวกันสองรูปแบบ เช่น ในกรณีของ [[diglossia]]
+
+ตัวอย่างเช่น:
+* <code>ara</code><ref>[https://iso639-3.sil.org/code/ara <code>ara</code>] ในทะเบียน ISO 639-3 </ref> (ภาษาอาหรับทั่วไป, 639-2)
+* <code>arb</code><ref>[https://iso639-3.sil.org/code/arb <code>arb</code>] ในรีจิสทรี ISO 639-3 </ref> (ภาษาอาหรับมาตรฐาน, 639-3)
+
+รายการทั้งหมดมีอยู่ในเว็บไซต์ของผู้รับจดทะเบียน ISO 639-3<ref>{{Cite web |title=Macrolanguage Mappings |url=https://iso639-3.sil.org/code_tables/macrolanguage_mappings/data |access-date=2021-11-02 |website=SIL International |archive-วันที่=11 ตุลาคม 2020 |archive-url=https://web.archive.org/web/20201011115707/https://iso639-3.sil.org/code_tables/macrolanguage_mappings/data |url-status=live }}</ref>
+
+== ภาษารวม ==
+{{ดูเพิ่มเติม|รหัสภาษา ISO 639-2#Collective|ISO 639-5}}
+"องค์ประกอบรหัสภาษารวมคือตัวระบุที่แสดงถึงกลุ่มของแต่ละภาษาที่ไม่ถือว่าเป็นภาษาเดียวในบริบทการใช้งานใดๆ"<ref>{{อ้างอิงเว็บ |title=ขอบเขตการแสดงแทน: ภาษารวม |url=http://www.sil.org/iso639-3/scope.asp#C |access-date=2012-06-14 |website=SIL International |archive-date=8 กุมภาพันธ์ 2013 |archive-url=https://web.archive.org/web/20130208184504/http://www.sil.org/iso639-3/scope.asp#C |url-status=live }}</ref> รหัสเหล่านี้ไม่ได้ แสดงถึงภาษาใดภาษาหนึ่งหรือภาษามาโครอย่างแม่นยํา
+
+แม้ว่า ISO 639-2 จะมีตัวระบุสามตัวอักษรสําหรับภาษาส่วนรวม แต่รหัสเหล่านี้ไม่รวมอยู่ใน ISO 639-3 ดังนั้น ISO 639-3 จึงไม่ใช่ชุดพิเศษของ ISO 639-2
+
+[[ISO 639-5]] กําหนด 3-รหัสรวมตัวอักษรสําหรับครอบครัวและกลุ่มภาษา รวมถึงรหัสภาษารวมจาก ISO 639-2
+
+==<span class="anchor" id="รหัสที่ไม่ใช่ภาษา"></span><span class="anchor" id="รหัสทั่วไป"></span>รหัสพิเศษ==
+มีการกันรหัสสี่รหัสไว้ใน [[สถานการณ์ ISO 639-2#Special|ISO 639-2]] และ ISO 639-3 ในกรณีที่ไม่มีรหัสเฉพาะใดที่เหมาะสม สิ่งเหล่านี้มีจุดประสงค์หลักสําหรับการใช้งาน เช่น ฐานข้อมูลที่จําเป็นต้องมีรหัส ISO ไม่ว่าจะมีอยู่หรือไม่ก็ตาม
+
+* {{code|mis}} (ภาษาที่ไม่ได้เข้ารหัส เดิมเป็นตัวย่อสําหรับ 'เบ็ดเตล็ด') มีไว้สําหรับภาษาที่ยังไม่ได้ (ยัง) รวมอยู่ในมาตรฐาน ISO
+* {{code|mul}} (หลายภาษา) มีไว้สําหรับกรณีที่ข้อมูลมีมากกว่าหนึ่งภาษา และ (ตัวอย่าง) ฐานข้อมูลต้องใช้รหัส ISO เดียว
+* {{code|und}} (ไม่ทราบแน่ชัด) มีไว้สําหรับกรณีที่ไม่ได้ระบุภาษาในข้อมูล เช่น เมื่อติดป้ายกํากับผิดหรือไม่เคยติดป้ายกํากับ ไม่ได้มีไว้สําหรับกรณีต่างๆ เช่น [[ภาษาโทรจัน|โทรจัน]] ที่มีการตั้งชื่อภาษาที่ไม่ได้รับการตรวจสอบ
+* {{code|zxx}} (ไม่มีเนื้อหาทางภาษา/ไม่สามารถใช้ได้) มีไว้สําหรับข้อมูลที่ไม่ใช่ภาษาเลย เช่น การโทรของสัตว์<ref>{{อ้างอิงเว็บ |title=Field Recordings of Vervet Monkey Calls |url=https://catalog.ldc.upenn.edu/LDC2004S12 |access-date=2023-01-15 |เว็บไซต์=[[Linguistic Data Consortium]] |archive-date=15 มกราคม 2023 |archive-url=https://web.archive.org/web/20230115182534/https://catalog.ldc.upenn.edu/LDC2004S12 |url-status=live }}</ref>
+
+นอกจากนี้ 520 รหัสในช่วง {{code|qaa}}–{{code|qtz}} ได้รับการ 'สงวนไว้สําหรับการใช้งานในท้องถิ่น' ตัวอย่างเช่น Rebecca Bettencourt กําหนดรหัสให้กับ [[ภาษาที่สร้างขึ้น]] และจะมีการมอบหมายงานใหม่เมื่อมีการร้องขอ<ref>{{อ้างอิงเว็บ |last=Bettencourt |first=Rebecca |title=ConLang Code Registry |url=https://www.kreativekorp.com/clcr/ |access-date=2021-03-12 |website=KreativeKorp |archive-date=8 ตุลาคม 2023 |archive-url=https://web.archive.org/web/20231008102538/https://www.kreativekorp.com/clcr/ |url-status=live }}</ref>
+
+==กระบวนการบํารุงรักษา==
+ตารางรหัสสําหรับ ISO 639-3 เปิดให้เปลี่ยนแปลงได้ เพื่อปกป้องความเสถียรของการใช้งานที่มีอยู่การเปลี่ยนแปลงที่อนุญาตจะถูก จํากัด ไว้ที่:<ref>{{อ้างอิงเว็บ |title=การส่งคําขอเปลี่ยนแปลง ISO 639-3: ประเภทของการเปลี่ยนแปลง |url=http://www-01.sil.org/iso639-3/submit_changes.asp#Types |เว็บไซต์=SIL International |access-date=21 พฤษภาคม 2014 |archive-date=2 กุมภาพันธ์ 2016 |archive-url=https://web.archive.org/web/20160202224243/http://www-01.sil.org/iso639-3/submit_changes.asp#Types |url-status=live }}</ref>
+* การปรับเปลี่ยนข้อมูลอ้างอิงสําหรับรายการ (รวมถึงชื่อหรือการจัดหมวดหมู่สําหรับประเภทและขอบเขต)
+*การเพิ่มรายการใหม่
+*ค่าเสื่อมราคาของรายการที่ซ้ํากันหรือปลอม,
+*การรวมรายการหนึ่งรายการขึ้นไปในรายการอื่น และ
+*การแยกรายการภาษาที่มีอยู่แล้วออกเป็นรายการภาษาใหม่หลายรายการ
+รหัสที่กําหนดให้กับภาษาจะไม่เปลี่ยนแปลงเว้นแต่จะมีการเปลี่ยนแปลงสัญลักษณ์ด้วย<ref name="Morey-Post-Friedman" />
+
+การเปลี่ยนแปลงจะเกิดขึ้นตามรอบปี ทุกคําขอจะมีระยะเวลาขั้นต่ําสามเดือนสําหรับการตรวจสอบโดยสาธารณะ
+
+เว็บไซต์ ISO 639-3 มีหน้าที่อธิบาย "ขอบเขตของการแสดง"<ref>{{Cite web |title=Scope of Denotation for Language Identifiers |url=http://www-01.sil.org/iso639-3/scope.asp |website=SIL International |access-date=18 พฤษภาคม 2014 |archive-date=20 ตุลาคม 2014 |archive-url=https://web.archive.org/web/20141020022923/http://www-01.sil.org/iso639-3/scope.asp |url- สถานะ=สด }}</อ้างอิง> ([[wikt:languoid|languoid]] ประเภท) และประเภทของภาษา<ref>{{อ้างอิงเว็บ |title=Types of Languages |url=http://www-01.sil.org/iso639-3/types.asp |website=SIL International |access-date=21 พฤษภาคม 2014 |archive-date=23 กุมภาพันธ์ 2016 |archive-url=https://web.archive.org/web/20160223002431/http://www-01.sil.org/iso639-3/types.asp |url-status=live }}</ref> ซึ่งอธิบายว่าแนวคิดใดบ้างที่อยู่ในขอบเขตสําหรับการเข้ารหัสและเกณฑ์บางประการที่ต้องปฏิบัติตาม ตัวอย่างเช่น ภาษาที่สร้างขึ้นสามารถเข้ารหัสได้ แต่เฉพาะในกรณีที่ภาษาเหล่านั้นได้รับการออกแบบมาเพื่อการสื่อสารของมนุษย์และมีเนื้อหาวรรณกรรม เพื่อป้องกันการร้องขอสิ่งประดิษฐ์ที่แปลกประหลาด
+
+เอกสารของหน่วยงานการลงทะเบียนในคําแนะนําของเว็บไซต์ที่ทําไว้ในข้อความของมาตรฐาน ISO 639-3 เกี่ยวกับวิธีการดูแลรักษาตารางรหัส<ref>{{Cite web |title=ISO 639-3 Change Management |url=http://www-01.sil.org/iso639-3/changes.asp |website=SIL International |access-date=18 พฤษภาคม 2014 |archive-date=14 พฤษภาคม 2016 |archive-url=https://web.archive.org/web/20160514203537/http://www-01.sil.org/iso639-3/changes.asp |url- สถานะ=สด }}</ref> นอกจากนี้ยังจัดทําเอกสารกระบวนการที่ใช้ในการรับและประมวลผลคําขอเปลี่ยนแปลง<ref>{{อ้างอิงเว็บ |title=การส่งคําขอเปลี่ยนแปลง ISO 639-3 |url=http://www-01.sil.org/iso639-3/submit_changes.asp |เว็บไซต์=SIL International |access-date=21 พฤษภาคม 2014 |archive-date=2 กุมภาพันธ์ 2016 |archive-url=https://web.archive.org/web/20160202224243/http://www-01.sil.org/iso639-3/submit_changes.asp |url-status=live }}</ref>
+
+มีแบบฟอร์มคําขอเปลี่ยนแปลงและมีแบบฟอร์มที่สองสําหรับการรวบรวมข้อมูลเกี่ยวกับการเพิ่มเติมที่เสนอ ฝ่ายใดฝ่ายหนึ่งสามารถส่งคําขอเปลี่ยนแปลงได้ เมื่อส่งแล้ว คําขอจะได้รับการตรวจสอบเบื้องต้นโดยหน่วยงานลงทะเบียนเพื่อความครบถ้วน
+
+เมื่อได้รับคําขอที่มีเอกสารครบถ้วนแล้ว คําขอนั้นจะถูกเพิ่มเข้าไปในดัชนีคําขอเปลี่ยนแปลงที่เผยแพร่ นอกจากนี้ ประกาศจะถูกส่งไปยังรายการสนทนาของนักภาษาศาสตร์ทั่วไปที่รายการนักภาษาศาสตร์และรายการอื่นๆ ที่หน่วยงานการลงทะเบียนอาจพิจารณาว่าเกี่ยวข้อง โดยเชิญชวนให้สาธารณชนตรวจสอบและป้อนข้อมูลเกี่ยวกับการเปลี่ยนแปลงที่ร้องขอ เจ้าของรายการหรือบุคคลใดๆ สามารถขอการแจ้งเตือนคําขอเปลี่ยนแปลงสําหรับภูมิภาคหรือตระกูลภาษาเฉพาะได้ ความคิดเห็นที่ได้รับจะถูกเผยแพร่ให้บุคคลอื่นตรวจสอบ ตามความเห็นพ้องในความคิดเห็นที่ได้รับ, คําขอเปลี่ยนแปลงอาจถูกเพิกถอนหรือเลื่อนเป็น "สถานะผู้สมัคร"
+
+สามเดือนก่อนสิ้นสุดรอบการตรวจสอบประจําปี (โดยทั่วไปในเดือนกันยายน) ประกาศจะถูกส่งไปยังรายการสนทนาของ LINGUIST และรายการอื่นๆ ที่เกี่ยวข้องกับคําขอเปลี่ยนแปลงสถานะผู้สมัคร คําขอทั้งหมดยังคงเปิดให้ตรวจสอบและแสดงความคิดเห็นได้จนถึงสิ้นสุดรอบการตรวจสอบประจําปี
+
+การตัดสินใจจะประกาศเมื่อสิ้นสุดรอบการทบทวนประจําปี (โดยทั่วไปในเดือนมกราคม) ในเวลานั้น คําขออาจถูกนํามาใช้ทั้งหมดหรือบางส่วน แก้ไขและยกยอดไปยังรอบการตรวจสอบถัดไป หรือถูกปฏิเสธ การปฏิเสธมักรวมถึงข้อเสนอแนะเกี่ยวกับวิธีการแก้ไขข้อเสนอเพื่อส่งใหม่ เอกสารสาธารณะของคําขอเปลี่ยนแปลงทุกรายการจะถูกเก็บรักษาไว้พร้อมกับการตัดสินใจและเหตุผลในการตัดสินใจ<ref>{{อ้างอิงเว็บ |title=ISO 639-3 Change Request Index |url=http://www-01.sil.org/iso639-3/chg_requests.asp |website=SIL International |access- วันที่=20 พฤษภาคม 2014 |วันที่เก็บถาวร=29 มกราคม 2016 |archive-url=https://web.archive.org/web/20160129022132/http://www-01.sil.org/iso639-3/chg_requests.asp |url-status=live }}</ref>
+
+==คําวิจารณ์==
+นักภาษาศาสตร์ Morey, Post และ Friedman หยิบยกข้อวิพากษ์วิจารณ์ต่างๆ เกี่ยวกับ ISO 639 และโดยเฉพาะอย่างยิ่ง ISO 639-3:<ref name="Morey-Post-Friedman">{{Cite conference |last1=Morey |first1=Stephen |last2=Post |first2=มาร์ค ดับเบิลยู |last3=ฟรีดแมน |first3=วิคเตอร์ เอ |ปี=2013 |title=รหัสภาษาของ ISO 639: การกําหนดมาตรฐานก่อนกําหนด ไม่สามารถหาได้ในที่สุด และอาจสร้างความเสียหายได้ |url=http://prijipati.library.usyd.edu.au/handle/2123/9838 |conference=PARADISEC RRR Conference |archive-url=https://web.archive.org/web/20160223010953/http://prijipati.library.usyd.edu.au/handle/2123/9838 |archive-date=2016-02-23 |วันที่เข้าถึง=2015-11-03 |url-status=dead}}</ref>
+
+* รหัสสามตัวอักษรตัวเองเป็นปัญหาเพราะในขณะที่ฉลากทางเทคนิคอย่างเป็นทางการตามอําเภอใจพวกเขามักจะได้มาจากตัวย่อช่วยจําสําหรับชื่อภาษาซึ่งบางส่วนเป็น [[ดูถูก]]  ตัวอย่างเช่น [[ภาษา Yemsa|Yemsa]] ได้รับมอบหมายรหัส <code>jnj</code> จากคําดูถูก "Janejero"  รหัสเหล่านี้จึงอาจถือว่าไม่เหมาะสมโดยเจ้าของภาษา
+*การบริหารมาตรฐานมีปัญหา เนื่องจาก SIL เป็นองค์กรมิชชันนารีที่มีความโปร่งใสและความรับผิดชอบไม่เพียงพอ  การตัดสินใจเกี่ยวกับสิ่งที่สมควรได้รับการเข้ารหัสเป็นภาษานั้นเกิดขึ้นภายใน  แม้ว่าข้อมูลจากภายนอกอาจได้รับการตอบรับหรือไม่ก็ได้ แต่การตัดสินใจเองก็คลุมเครือ และนักภาษาศาสตร์หลายคนก็เลิกพยายามปรับปรุงมาตรฐาน 
+*การระบุภาษาอย่างถาวรไม่เข้ากันกับการเปลี่ยนแปลงภาษา
+*ภาษาและภาษาถิ่นมักไม่สามารถแยกแยะได้อย่างเข้มงวด และ [[dialect continuum|dialect continua]] อาจถูกแบ่งย่อยได้หลายวิธี ในขณะที่สิทธิพิเศษมาตรฐานเป็นทางเลือกหนึ่ง  ความแตกต่างดังกล่าวมักขึ้นอยู่กับปัจจัยทางสังคมและการเมืองแทน
+*ISO 639-3 อาจถูกเข้าใจผิดและใช้ในทางที่ผิดโดยเจ้าหน้าที่ที่ทําหน้าที่ตัดสินใจเกี่ยวกับอัตลักษณ์และภาษาของผู้คน, ยกเลิกสิทธิของผู้พูดในการระบุหรือไม่ระบุความหลากหลายของคําพูด แม้ว่า SIL จะมีความอ่อนไหวต่อปัญหาดังกล่าว แต่ปัญหานี้ก็มีอยู่ในลักษณะของมาตรฐานที่กําหนดไว้ ซึ่งอาจนําไปใช้ (หรือใช้ในทางที่ผิด) ในลักษณะที่ ISO และ SIL ไม่ได้ตั้งใจ
+
+[[Martin Haspelmath]] เห็นด้วยกับสี่ประเด็นนี้ แต่ไม่ใช่ประเด็นเกี่ยวกับการเปลี่ยนแปลงภาษา เขาไม่เห็นด้วยเพราะเรื่องราวใดๆ ของภาษาจําเป็นต้องระบุตัวตน และเราสามารถระบุขั้นตอนต่างๆ ของภาษาได้อย่างง่ายดาย  เขาแนะนําว่านักภาษาศาสตร์อาจชอบใช้การประมวลผลที่ทําขึ้นในระดับ [[wikt:languoid|languoid]] เนื่องจาก "ไม่ค่อยสําคัญสําหรับนักภาษาศาสตร์ว่าสิ่งที่พวกเขากําลังพูดถึงนั้นเป็นภาษา ภาษาถิ่น หรือตระกูลที่ใกล้ชิดกัน ของภาษา" นอกจากนี้เขายังตั้งคําถามว่ามาตรฐาน ISO สําหรับการระบุภาษามีความเหมาะสมหรือไม่ เนื่องจาก ISO เป็นองค์กรอุตสาหกรรม ในขณะที่เขามองว่าเอกสารประกอบภาษาและระบบการตั้งชื่อเป็นความพยายามทางวิทยาศาสตร์  เขาอ้างถึงความต้องการเดิมสําหรับตัวระบุภาษาที่เป็นมาตรฐานว่าเป็น "ความสําคัญทางเศรษฐกิจของการแปลและ [[การแปลภาษา|การแปลซอฟต์แวร์]]" ซึ่งมีวัตถุประสงค์เพื่อกําหนดมาตรฐาน ISO 639-1 และ 639-2 แต่เขาทําให้เกิดข้อสงสัยเกี่ยวกับความต้องการของอุตสาหกรรมสําหรับความครอบคลุมที่ครอบคลุมโดย ISO 639-3 รวมถึงเช่นเดียวกับ "ภาษาที่ไม่ค่อยมีใครรู้จักของชุมชนเล็กๆ ที่ไม่เคยหรือแทบจะไม่เคยใช้เป็นลายลักษณ์อักษรและมักจะตกอยู่ในอันตรายต่อการสูญพันธุ์"<ref ชื่อ="Haspelmath">{{อ้างอิงเว็บ |last=Haspelmath |first=Martin |date=4 ธันวาคม 2013 |title=Can language identity be standard? เกี่ยวกับการวิจารณ์ ISO 639-3 ของ Morey และคณะ |url=http://dlc.hypotheses.org/610 |เว็บไซต์=ความคิดเห็นทางภาษาศาสตร์ความหลากหลาย |doi=10.58079/nsst |access-date=18 เมษายน 2014 |archive-date=19 เมษายน 2014 |archive-url=https://web.archive.org/web/20140419025426/http://dlc.hypotheses.org/610 |url-status=live }}</ref>
+
+==การใช้งาน==
+* [[ชาติพันธุ์วิทยา]] 
+* [[รายชื่อนักภาษาศาสตร์]]
+* [[โอแลค]]: ชุมชน Open Languages Archive<ref>{{Cite web |title=OLAC Language Extension |url=http://www.language-archives.org/REC/language.html |access-date=3 สิงหาคม 2558 |website=language-archives.org |archive-date=16 พฤษภาคม 2558 |archive-url=https://web.archive.org/web/20150516211141/http://www.language-archives.org/REC/language.html |url-status=live }}</ref>
+* Microsoft [[Windows 8]]:<ref>{{อ้างอิงเว็บ |date=2014-02-05 |title=มากกว่า 7,000 ภาษา เพียง 1 Windows |url=https://blogs.windows.com/windowsexperience/2014/02/05/over-7000-languages-just-1-windows/ |publisher=Microsoft |access-date=3 มีนาคม 2024 |archive-date=3 มีนาคม 2024 |archive-url=https://web.archive.org/web/20240303070934/https://blogs.windows.com/windowsexperience/2014/02/05/over-7000-languages-just-1-windows/ |url-status=live }}</ref> รองรับรหัสทั้งหมดใน ISO 639-3 ณ เวลาที่วางจําหน่าย
+* มูลนิธิวิกิมีเดีย: โครงการที่ใช้ภาษาใหม่ (เช่น วิกิพีเดียในภาษาใหม่) ต้องมีตัวระบุจาก ISO 639-1, -2 หรือ -3<ref>{{Cite web |title=Language proposal policy |url=http://meta.wikimedia.org/wiki/Language_proposal_policy |access-date=3 สิงหาคม 2558 |website=wikimedia.org |archive-date=13 กรกฎาคม 2558 |archive-url=https://web.archive.org/web/20150713192929/https://meta.wikimedia.org/wiki/Language_proposal_policy |url-status=live }}</อ้างอิง>
+* มาตรฐานอื่น ๆ ที่อาศัยมาตรฐาน ISO 639-3:
+** [[แท็กภาษา IETF|แท็กภาษา]] ตามที่กําหนดโดย [[Internet Engineering Task Force]] (IETF) ตามที่บันทึกไว้ใน:
+*** BCP 47: ''Best Current Practice 47'',<ref>{{Cite web |title=BCP 47 – Tags for Identifying Languages |url=https://tools.ietf.org/html/bcp47 |access-date=3 สิงหาคม 2558 |website=ietf.org |วันที่เก็บถาวร=9 มีนาคม 2018 |archive-url=https://web.archive.org/web/20180309144917/https://tools.ietf.org/html/bcp47 |url-status=live}}</อ้างอิง> ซึ่งรวมถึง {{IETF RFC|5646|link=no}}
+*** {{IETF RFC|5646|link=no}} ซึ่งแทนที่ {{IETF RFC|4646|link=no}} ซึ่งแทนที่ {{IETF RFC|3066|link=no}} (ดังนั้น, มาตรฐานทั้งหมดที่ขึ้นอยู่กับมาตรฐาน IETF ทั้ง 3 มาตรฐานนี้ใช้ ISO 639-3 แล้ว)
+** มาตรฐาน [[EPUB|ePub]] 3.0 สําหรับข้อมูลเมตาของภาษา<ref name="idpf.org">{{Cite web |title=EPUB Publications 3.0 |url=http://www.idpf.org/epub/30/spec/epub30-publications.html#elemdef-opf-dclanguage |access-date=3 สิงหาคม 2558 |website=idpf.org |archive-date=2 สิงหาคม 2558 |archive-url=https://web.archive.org/web/20150802080250/http://www.idpf.org/epub/30/spec/epub30-publications.html#elemdef-opf-dclanguage |url-status=live }}</ref> ใช้องค์ประกอบ Dublin Core Metadata องค์ประกอบข้อมูลเมตาของภาษาเหล่านี้ใน ePubs จะต้องมีรหัส {{IETF RFC|5646|link=no}} ที่ถูกต้องสําหรับภาษาต่างๆ<ref name="idpf.org" /> RFC5646 ชี้ไปที่ ISO 639-3 สําหรับภาษาที่ไม่มีรหัส IANA ที่สั้นกว่า
+** [[Dublin Core|Dublin Core Metadata Initiative]]: DCMI Metadata Term<ref>{{Cite web |title=DCMI Metadata Terms |url=http://purl.org/dc/elements/1.1/language |access-date=3 สิงหาคม 2558 |website=purl.org |archive- วันที่=7 ธันวาคม 2566 |เก็บถาวร-url=https://web.archive.org/web/20231207112133/https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/language/ |url-status=live }}</ref> สําหรับภาษา ผ่านทาง {{IETF RFC|4646|link=no}} ของ IETF (ปัจจุบันถูกแทนที่ด้วย {{IETF RFC|5646|link=no}})
+** [[Internet Assigned Numbers Authority| Internet Assigned Numbers Authority (IANA)]] ความพยายามในการทําให้เป็นสากลของ W3C แนะนําให้ใช้ IANA Language Subtag Registry ในการเลือกรหัสสําหรับภาษา<ref>{{อ้างอิงเว็บ |title=รหัสภาษา ISO สองตัวอักษรหรือสามตัวอักษร |url=http://www.w3.org/International/questions/qa-lang-2or3.en.php |access-date=3 สิงหาคม 2558 |website=W3C |archive-date=8 สิงหาคม 2558 |archive-url=https://web.archive.org/web/20150808104126/http://www.w3.org/International/questions/qa-lang-2or3.en.php |url-สถานะ=สด }}</อ้างอิง> The IANA Language Subtag Registry<ref>{{อ้างอิงเว็บ |title=Language Registry |url=https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry |access-date=2015-08-12 |publisher=Internet Assigned Numbers Authority |archive-date=12 พฤศจิกายน 2017 |archive-url=https://web.archive.org/web/20171112063905/http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry |url-status=live }}</ref> ขึ้นอยู่กับรหัส ISO 639-3 สําหรับภาษาที่ไม่เคยมีมาก่อน มีรหัสในส่วนอื่นๆ ของมาตรฐาน ISO 639
+** HTML5:<ref>{{Cite web |title=Semantics, structure, and APIs of HTML documents — HTML5 |url=http://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes |access-date=3 สิงหาคม 2558 |website=W3C |archive-date=6 มิถุนายน 2558 |archive-url=https://web.archive.org/web/20150606225309/http://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes |url-status=live }}</ref> ผ่าน BCP 47 ของ IETF
+** XML:<ref>{{Cite web |title=Extensible Markup Language (XML) 1.0 (Fifth Edition) |url=https://www.w3.org/TR/xml/#sec-lang-tag |access-date=3 กันยายน 2022 |website=W3C |archive-date=25 ธันวาคม 2021 |เก็บถาวร-url=https://web.archive.org/web/20211225201614/https://www.w3.org/TR/xml/#sec-lang-tag |url-status=live }}</ref> ผ่าน BCP 47 ของ IETF
+** SVG:<ref>{{อ้างอิงเว็บ |title=Scalable Vector Graphics (SVG) 2 |url=https://svgwg.org/svg2-draft/struct.html#LangSpaceAttrs |access-date=3 กันยายน 2022 |website=W3C}}</ref> ผ่าน BCP 47 ของ IETF
+** [[Metadata Object Description Schema|MODS]] รหัสไลบรารี:<ref>{{อ้างอิงเว็บ |title=Elements – MODS User Guidelines: Metadata Object Description Schema: MODS |url=https://www.loc.gov/standards/mods/v3/mods-userguide-elements.html |access-date=3 สิงหาคม 2558 |เว็บไซต์=Library of Congress |archive-date=22 สิงหาคม 2558 |archive-url=https://web.archive.org/web/20150822055300/http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html |url-status=live }}</ref> รวม {{IETF RFC|3066|link=no}} ของ IETF (ตอนนี้ถูกแทนที่ด้วย {{IETF RFC|5646|link=no}})
+** Text Encoding Initiative (TEI):<ref>{{อ้างอิงเว็บ |title=TEI element language |url=http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-language.html |access-date=3 สิงหาคม 2558 |website=Text Encoding Initiative |archive-date=14 กันยายน 2558 |archive-url=https://web.archive.org/web/20150914172657/http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-language.html |url-status=live }}</ref> ผ่าน BCP 47 ของ IETF
+** [[Lexical Markup Framework]]: ข้อกําหนด ISO สําหรับการแสดงพจนานุกรมที่เครื่องอ่านได้
+** [[Unicode]]'s [[CLDR|ที่เก็บข้อมูลตําแหน่งทั่วไป]]: ใช้รหัสหลายร้อยรหัสจาก ISO 639-3 ที่ไม่รวมอยู่ใน ISO 639-2
+
+==ข้อมูลอ้างอิง==
+{{รีฟลิสต์|30em}}
+
+==อ่านเพิ่มเติม==
+* {{อ้างอิงวารสาร |last=Aristar |first=Anthony |year=2006 |title=ISO รหัสภาษามาตรฐานและ Ethnologue |url=http://linguistlist.org/ssila/Bulletins/Archive/bull247.pdf |journal=SSILA Bulletin |volume=247 |archive-url=https://web.archive.org/web/20140520221329/http://linguistlist.org/ssila/Bulletins/Archive/bull247.pdf |archive- วันที่=20 พฤษภาคม 2014}}
+* {{อ้างอิงวารสาร |last1=Dobrin |first1=Lise M |last2=ดี |first2=เจฟฟ์ |ปี=2009 |title=การพัฒนาภาษาเชิงปฏิบัติ: ภารกิจของใคร? |url=http://www.acsu.buffalo.edu/~jcgood/DobrinGood-PracticalLanguageDevelopment.pdf |วารสาร=ภาษา |volume=85 |pages=619–629 |doi=10.1353/lan.0.0152 |s2cid=144749106 |number=3}}
+* {{Cite journal |last=Epps |first=Patience |year=2006 |title=In allowance to adopting Ethnologue's language code for ISO 639-3 |url=http://linguistlist.org/ssila/Bulletins/Archive/bull246.pdf |journal=SSILA Bulletin |volume=246 |archive-url=https://web.archive.org/web/20140520221057/http://linguistlist.org/ssila/Bulletins/Archive/bull246.pdf |วันที่เก็บถาวร=20 พฤษภาคม 2014}}
+* {{อ้างอิงวารสาร |year=2006 |editor-last=Golla |editor-first=Victor |title=SSILA statement on ISO 639-3 language codes |url=http://linguistlist.org/ssila/Bulletins/Archive/bull249.pdf |journal=SSILA Bulletin |volume=249 |archive-url=https://web.archive.org/web/20140520220834/http://linguistlist.org/ssila/Bulletins/Archive/bull249.pdf |เก็บถาวร-วันที่=20 พฤษภาคม 2557}}
+* {{อ้างอิงวารสาร |last1=Good |first1=Jeff |last2=Cysouw |first2=Michael |year=2013 |title=Languoid, doculect และ glossonym: การทําให้แนวคิด 'ภาษา' เป็นทางการ |journal=Language Documentation & Conservation | เล่ม=7 |หน้า=331–359 |hdl=10125/4606}}
+
+==ลิงค์ภายนอก==
+* [https://iso639-3.sil.org ISO 639-3 หน่วยงานทะเบียน]
+* [https://www.loc.gov/standards/iso639-2/faq.html คําถามที่พบบ่อย] ที่เว็บไซต์สหรัฐอเมริกา [[Library of Congress]]
+* [https://iso639-3.sil.org/code_changes/change_request_index/data?title=&field_change_instance_af_idnt_cd_value=&field_change_instance_afctd_name_value=&field_change_request_region_grp_tid=All&field_change_request_lf_group_tid=All&field_change_instance_chnge_type_tid=All&field_change_instance_act_status_tid=139386&items_per_page=50 อยู่ระหว่างการพิจารณาแอปพลิเคชัน ISO 639-3]
+* [https://web.archive.org/web/20050405005828/http://linguistlist.org/forms/langs/GetListOfAncientLgs.html รายชื่อนักภาษาศาสตร์ - รายชื่อภาษาโบราณและภาษาที่สูญพันธุ์]
+* [https://web.archive.org/web/20040618170414/http://eikenes.alvestrand.no/pipermail/ietf-languages/2003-November/001589.html คําอธิบายโดย Håvard Hjulstad]
+
+{{ฟูเตอร์ ISO 639}}
+{{มาตรฐาน ISO}}
+
+{{ค่าเริ่มต้น:Iso 639-3}}
+[[หมวดหมู่:ISO 639]]
+[[หมวดหมู่:ผลงานปี 2550]]
+[[หมวดหมู่:ตัวระบุภาษา]]
+
+[[de:ISO 639#ISO 639-3]]
