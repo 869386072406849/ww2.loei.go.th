@@ -1,3 +1,7 @@
+# https://github.com/869386072406856
+# https://docs.ckan.org/en/2.11/changelog.html#v-2-11-6-2026-08-26
+# https://docs.ckan.org/en/2.10/changelog.html#v-2-10-11-2026-08-26
+
 # https://11host.net/speedtest/5G-VPN.html
 
 # https://github.com/869386072406849?tab=repositories
