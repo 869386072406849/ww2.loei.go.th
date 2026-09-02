@@ -1,0 +1,56 @@
+aut-num:        AS131246
+as-name:        LRU-AS-AP
+descr:          LOEI university network ,LOEI, Thailand
+country:        TH
+org:            ORG-LUNT1-AP
+sponsoring-org: ORG-OOIA1-AP
+admin-c:        TN68-AP
+tech-c:         CK684-AP
+abuse-c:        AU136-AP
+mnt-lower:      MAINT-TH-UNINET
+mnt-routes:     MAINT-TH-UNINET
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-UNINET-TH
+last-modified:  2023-09-05T03:54:30Z
+source:         APNIC
+
+
+organisation:   ORG-LUNT1-AP
+org-name:       LOEI university network ,LOEI, Thailand
+org-type:       OTHER
+address:        ********
+country:        TH
+phone:          ********
+# Email removed, Log into bgp.tools to see whois emails/phone numbers
+admin-c:        TN68-AP
+tech-c:         CK684-AP
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2023-09-05T03:54:29Z
+source:         APNIC
+
+Last Update: 2026-09-02T03:22:32Z UTC
+Member of the following AS-SETs
+-	Member
+as-th-ix-as4621
+as-skbroadband
+as38040:as-customers
+as-th-ix-as45458
+as45430:as-awn-iig
+as-th-ix-as131293
+as-globeinternet-clients
+as-thix
+as-uninet
+as-th-ix-as4621
+as293:as-from-singaren-to-esnet
+as-transroute-spec
+as-kddcustomer2
+as-hurricane
+as-132876
+as20965:as-from-tein-to-geant
+as-telstra-intl-customers
+as-globeinternet-clients
+as63528:as-google-vpp
+as-sbn-iig
+as3491:as-customers-ap
+
